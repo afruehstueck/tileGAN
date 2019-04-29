@@ -1,7 +1,7 @@
-# TileGAN
-![TileGAN](https://github.com/afruehstueck/afruehstueck.github.io/blob/master/assets/images/tilegan.jpg)
+## TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures
+![TileGAN](https://github.com/afruehstueck/tileGAN/blob/master/doc/tilegan_results.jpg)
 
-:bulb: We will make the code of our paper **"TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures"** (will be presented at SIGGRAPH 2019) available here soon.
+:bulb: *We will make the code of our paper **"TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures"** (will be presented at SIGGRAPH 2019) available here soon.*
 
 ### Abstract
 We tackle the problem of texture synthesis in the setting where many input
