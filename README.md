@@ -1,4 +1,4 @@
-# TileGAN
+## TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures
 ![TileGAN](https://github.com/afruehstueck/tileGAN/blob/master/doc/tilegan_results.jpg)
 
 :bulb: We will make the code of our paper **"TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures"** (will be presented at SIGGRAPH 2019) available here soon.
