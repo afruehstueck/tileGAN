@@ -1,8 +1,10 @@
 # TileGAN
 ![TileGAN](https://github.com/afruehstueck/afruehstueck.github.io/blob/master/assets/images/tilegan.jpg)
 
-We will make the code of our paper "TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures" available here soon.
+We will make the code of our paper "TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures" (will be presented at SIGGRAPH 2019) available here soon.
 
+### Authors
+[Anna Frühstück](http://afruehstueck.github.io), [Ibraheem Alhashim](http://ialhashim.github.io), [Peter Wonka](http://peterwonka.net)
 ### Citation
 If you use this code for your research, please cite our paper:
 ```
