@@ -15,7 +15,6 @@ generation of synthesized high-resolution maps consisting of up to hundreds
 of megapixels as a case in point.
 
 
-
 ### Authors
 [Anna Frühstück](http://afruehstueck.github.io), [Ibraheem Alhashim](http://ialhashim.github.io), [Peter Wonka](http://peterwonka.net)
 ### Citation
@@ -35,4 +34,4 @@ If you use this code for your research, please cite our paper:
 ```
 
 ### Acknowledgements
-Our project is based on [ProGAN](https://github.com/tkarras/progressive_growing_of_gans). We'd like to thank Tero Karras et al. for their great work.
+Our project is based on [ProGAN](https://github.com/tkarras/progressive_growing_of_gans). We'd like to thank Tero Karras et al. for their great work and for making their code available.
