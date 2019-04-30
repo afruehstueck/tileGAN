@@ -14,6 +14,8 @@ enable artistic control. Our quantitative and qualitative results showcase the
 generation of synthesized high-resolution maps consisting of up to hundreds
 of megapixels as a case in point.
 
+### Paper
+available on [arXiv](https://arxiv.org/abs/1904.12795)
 
 ### Authors
 [Anna Frühstück](http://afruehstueck.github.io), [Ibraheem Alhashim](http://ialhashim.github.io), [Peter Wonka](http://peterwonka.net)
