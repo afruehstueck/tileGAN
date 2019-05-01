@@ -14,6 +14,13 @@ enable artistic control. Our quantitative and qualitative results showcase the
 generation of synthesized high-resolution maps consisting of up to hundreds
 of megapixels as a case in point.
 
+### Results
+Some of our results can be viewed interactively on easyzoom:
+
+[<img src="https://easyzoom.blob.core.windows.net/tiled/d6aaea2c-78a0-4f3b-9910-a92f1cae65c2/d6aaea2c-78a0-4f3b-9910-a92f1cae65c2_272.jpg">](https://www.easyzoom.com/imageaccess/2c874aa0cfc9478eaff289c0ad41cbb7)
+[<img src="https://easyzoom.blob.core.windows.net/tiled/ec0082ce-5ead-4c74-aadc-eba4be3487d1/ec0082ce-5ead-4c74-aadc-eba4be3487d1_272.jpg">](https://www.easyzoom.com/imageaccess/62409020a0334402b2c91d9f6aa63459)
+[<img src="https://easyzoom.blob.core.windows.net/tiled/c2561974-2010-48da-ac87-1216f4eb2e7a/c2561974-2010-48da-ac87-1216f4eb2e7a_272.jpg">](https://www.easyzoom.com/imageaccess/d16837356655462bb034a6e2c6c209d8)
+
 ### Paper
 available on [arXiv](https://arxiv.org/abs/1904.12795)
 
