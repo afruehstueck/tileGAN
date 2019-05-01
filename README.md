@@ -16,6 +16,7 @@ of megapixels as a case in point.
 
 ### Video
 Watch our video on Youtube:
+
 [<img src="https://github.com/afruehstueck/tileGAN/blob/master/doc/video_link.jpg">](https://www.youtube.com/watch?v=ye_HZOdW7kg)
 
 
