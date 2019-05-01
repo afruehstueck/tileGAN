@@ -14,6 +14,11 @@ enable artistic control. Our quantitative and qualitative results showcase the
 generation of synthesized high-resolution maps consisting of up to hundreds
 of megapixels as a case in point.
 
+### Video
+Watch our video on Youtube:
+[<img src="https://github.com/afruehstueck/tileGAN/blob/master/doc/video_link.jpg">](https://www.youtube.com/watch?v=ye_HZOdW7kg)
+
+
 ### Results
 Some of our results can be viewed interactively on easyzoom:
 
