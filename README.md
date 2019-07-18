@@ -30,8 +30,8 @@ The TileGAN application consists of two independent processes, the server and th
   cd hnswlib/python_bindings
   python setup.py install
   ``` 
- * run `python tileGAN_server.py`
- * the server process will start, then tell you the IP to connect to.
+ * Run `python tileGAN_server.py`
+ * The server process will start, then tell you the IP to connect to.
  
 ### Setup client
  * Install Qt for Python. The easiest way to do this is using [conda](https://www.anaconda.com/distribution/#download-section): `conda install -c conda-forge qt pyside2`
@@ -53,6 +53,7 @@ The TileGAN application consists of two independent processes, the server and th
 
 ## Video
 Watch our video on Youtube:
+
 [<img src="https://github.com/afruehstueck/tileGAN/blob/master/doc/video_link.jpg">](https://www.youtube.com/watch?v=ye_HZOdW7kg)
 ## Results
 Some of our results can be viewed interactively on easyzoom:
