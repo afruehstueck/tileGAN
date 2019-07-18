@@ -3,7 +3,7 @@
 
 :bulb: *We will make the code of our paper **"TileGAN: Synthesis of Large-Scale Non-Homogeneous Textures"** (will be presented at SIGGRAPH 2019) available here soon.*
 
-### Abstract
+## Abstract
 We tackle the problem of texture synthesis in the setting where many input
 images are given and a large-scale output is required. We build on recent
 generative adversarial networks and propose two extensions in this paper.
@@ -14,38 +14,37 @@ enable artistic control. Our quantitative and qualitative results showcase the
 generation of synthesized high-resolution maps consisting of up to hundreds
 of megapixels as a case in point.
 
-### Video
+## Video
 Watch our video on Youtube:
+
 [<img src="https://github.com/afruehstueck/tileGAN/blob/master/doc/video_link.jpg">](https://www.youtube.com/watch?v=ye_HZOdW7kg)
 
-
-### Results
+## Results
 Some of our results can be viewed interactively on easyzoom:
 
 [<img src="https://easyzoom.blob.core.windows.net/tiled/d6aaea2c-78a0-4f3b-9910-a92f1cae65c2/d6aaea2c-78a0-4f3b-9910-a92f1cae65c2_272.jpg">](https://www.easyzoom.com/imageaccess/2c874aa0cfc9478eaff289c0ad41cbb7)
 [<img src="https://easyzoom.blob.core.windows.net/tiled/ec0082ce-5ead-4c74-aadc-eba4be3487d1/ec0082ce-5ead-4c74-aadc-eba4be3487d1_272.jpg">](https://www.easyzoom.com/imageaccess/62409020a0334402b2c91d9f6aa63459)
 [<img src="https://easyzoom.blob.core.windows.net/tiled/c2561974-2010-48da-ac87-1216f4eb2e7a/c2561974-2010-48da-ac87-1216f4eb2e7a_272.jpg">](https://www.easyzoom.com/imageaccess/d16837356655462bb034a6e2c6c209d8)
 
-### Paper
+## Paper
 available on [arXiv](https://arxiv.org/abs/1904.12795)
 
-### Authors
+## Authors
 [Anna Frühstück](http://afruehstueck.github.io), [Ibraheem Alhashim](http://ialhashim.github.io), [Peter Wonka](http://peterwonka.net)
-### Citation
+
+## Citation
 If you use this code for your research, please cite our paper:
 ```
 @article{Fruehstueck2019TileGAN,
-  title = {{TileGAN}: Synthesis of Large-Scale Non-Homogeneous Textures},
-  author = {Fr\"{u}hst\"{u}ck, Anna and Alhashim, Ibraheem and Wonka, Peter},
-  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH) },
+  title      = {{TileGAN}: Synthesis of Large-Scale Non-Homogeneous Textures},
+  author     = {Fr\"{u}hst\"{u}ck, Anna and Alhashim, Ibraheem and Wonka, Peter},
+  journal    = {ACM Transactions on Graphics (Proc. SIGGRAPH) },
   issue_date = {July 2019},
-  volume = {38},
-  number = {4},
-  month = jul,
-  pages = {0},
-  year = {2019}
+  volume     = {38},
+  number     = {4},
+  year       = {2019}
 }
 ```
 
-### Acknowledgements
+## Acknowledgements
 Our project is based on [ProGAN](https://github.com/tkarras/progressive_growing_of_gans). We'd like to thank Tero Karras et al. for their great work and for making their code available.
