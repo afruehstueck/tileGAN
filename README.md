@@ -49,6 +49,7 @@ The TileGAN application consists of two independent processes, the server and th
  * run server and client and load network in UI from the drop down menu. First time the network is loaded, an ANN index is created (expected to take <5mins depending on sample size)
 
 ### Using our application
+![TileGAN UI](https://raw.githubusercontent.com/afruehstueck/tileGAN/master/doc/tileGAN_UI.jpg)
 ![TileGAN Tutorial](https://raw.githubusercontent.com/afruehstueck/tileGAN/master/tileGAN_firstSteps.jpg)
 
 ## Video
