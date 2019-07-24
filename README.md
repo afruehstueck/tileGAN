@@ -14,8 +14,8 @@ of megapixels as a case in point.
 Watch our video on Youtube:
 
 [<img src="https://github.com/afruehstueck/tileGAN/blob/master/doc/video_link.jpg">](https://www.youtube.com/watch?v=ye_HZOdW7kg)
-## Results
-Some of our results can be viewed interactively on easyzoom:
+## High Resolution Results
+Some of our results can be viewed interactively on EasyZoom:
 
 [<img src="https://easyzoom.blob.core.windows.net/tiled/d6aaea2c-78a0-4f3b-9910-a92f1cae65c2/d6aaea2c-78a0-4f3b-9910-a92f1cae65c2_272.jpg">](https://www.easyzoom.com/imageaccess/2c874aa0cfc9478eaff289c0ad41cbb7)
 [<img src="https://easyzoom.blob.core.windows.net/tiled/ec0082ce-5ead-4c74-aadc-eba4be3487d1/ec0082ce-5ead-4c74-aadc-eba4be3487d1_272.jpg">](https://www.easyzoom.com/imageaccess/62409020a0334402b2c91d9f6aa63459)
