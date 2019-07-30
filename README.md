@@ -68,6 +68,7 @@ available on [arXiv](https://arxiv.org/abs/1904.12795) or [ACM](https://dl.acm.o
 
 ## Authors
 [Anna Frühstück](http://afruehstueck.github.io), [Ibraheem Alhashim](http://ialhashim.github.io), [Peter Wonka](http://peterwonka.net)
+Contact: anna.fruehstueck (at) kaust.edu.sa
 
 ## Citation
 If you use this code for your research, please cite our paper:
